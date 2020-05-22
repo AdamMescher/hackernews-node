@@ -1,6 +1,6 @@
 {
   "name": "hackernews-node",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Attempt to build a Hacker News clone with Node, Typescript, and GraphQL",
   "main": "index.js",
   "scripts": {
