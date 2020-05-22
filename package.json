@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AdamMescher/hackernews-node/issues"
   },
-  "homepage": "https://github.com/AdamMescher/hackernews-node#readme"
+  "homepage": "https://github.com/AdamMescher/hackernews-node#readme",
+  "dependencies": {
+    "typescript": "^3.9.3"
+  }
 }
